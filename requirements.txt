@@ -1,0 +1,12 @@
+torch==2.7.1
+torchvision==0.22.1
+git+https://github.com/openai/CLIP.git
+pillow
+faiss-cpu
+numpy
+openai
+datasets
+matplotlib
+python-dotenv
+tqdm
+chromadb
