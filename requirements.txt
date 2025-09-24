@@ -10,3 +10,9 @@ matplotlib
 python-dotenv
 tqdm
 chromadb
+fastapi
+uvicorn
+transformers
+python-multipart
+dotenv
+clip
